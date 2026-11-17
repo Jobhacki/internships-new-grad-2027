@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>15,022</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>15,063</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**15,022 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**15,063 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -62,6 +62,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Supply Chain Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/f621171f-158b-437e-afa8-2f9e61413bea) |
 | Architecture Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/951b27c0-38ce-42aa-8cd1-ca7c1db4c0c4) |
 | Manufacturing Engineering Internship (Summer 2027) | american-housing | Austin |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/american-housing/426e2483-9173-4ce5-93b5-298251fce66d) |
+| 2027 Summer Internship (MBA) - Product | duetti | New York, NY |  | 2026-11-16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2) |
 | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-16 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342956&lang=en) |
 | Executive Office Small Business Initiative (SBI) Research Intern – Spring 2027 | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-16 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007ZS&lang=en) |
 | Hardware Verification Engineer Co-Op (Spring 2027) | Ralliant | Solon, OH, United States |  | 2026-11-16 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10490) |
@@ -131,10 +132,13 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Summer 2027 Internship - Game Design Intern | fanaticscollectibles | Seattle, WA, United States |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009) |
 | Summer 2027 Internship - Creative & Illustration Intern | fanaticscollectibles | Seattle, WA, United States |  | 2026-11-15 | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009) |
 | Intern Associate Portfolio Executive- Summer 2027 | chrobinson | Chicago, IL United States of America |  | 2026-11-14 | [Apply](https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Chicago-IL-United-States-of-America/Associate-Portfolio-Executive-Intern---Summer-2027_R49770) |
+| 2027 Summer Internship (MBA) - Investment | duetti | New York, NY |  | 2026-11-13 | [Apply](https://jobs.lever.co/duetti/371d28f1-2252-4c36-92af-7cad6ebc0620) |
+| 2027 Summer Internship - Legal | duetti | New York, NY |  | 2026-11-13 | [Apply](https://jobs.lever.co/duetti/473392d1-a6ea-4b4a-a72a-65d6f36f2e26) |
 | Civil Engineering Intern- Summer 2027 | WSP | Morristown, NJ, United States |  | 2026-11-13 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99277) |
 | 2027 Management and Sales Intern (Chicago Metro - North Suburbs) | Sherwin-Williams | Schaumburg, IL, United States |  | 2026-11-13 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621827) |
 | Sports Intern - Spring 2027 | Sinclair | Providence, RI, United States |  | 2026-11-13 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17627) |
-| Legislative Intern (Spring 2027) | ADP employer 7c7ecfd3 | Washington, DC, US |  | 2026-11-13 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7c7ecfd3-4082-4ef7-8d1d-c9d0d8597c59&ccId=19000101_000001&jobId=569675&lang=en_US&source=CC2) |
+| NEON Theatrical Distribution Intern - Spring 2027 | NEON Rated | Los Angeles, California, US |  | 2026-11-13 | [Apply](https://apply.workable.com/j/0FA64F2BB5) |
+| NEON Marketing Intern - Spring 2027 | NEON Rated | New York, New York, US |  | 2026-11-13 | [Apply](https://apply.workable.com/j/64C79EDE5D) |
 | 2027 Summer Intern - Commercial Real Estate | cibc | Chicago, IL |  | 2026-11-13 | [Apply](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Commercial-Real-Estate_2620117) |
 | Undergraduate Admission Intern/Tour Guide SUMMER 2027 (Student Wage) | uva | Charlottesville, VA |  | 2026-11-13 | [Apply](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Undergraduate-Admission-Intern-Tour-Guide-SUMMER-2027--Student-Wage-_R0089070) |
 | Undergraduate Admission Intern/Tour Guide Fall 2027 (FWS Eligible) | uva | Charlottesville, VA |  | 2026-11-13 | [Apply](https://uva.wd1.myworkdayjobs.com/en-US/uvastudentjobs/job/Charlottesville-VA/Undergraduate-Admission-Intern-Tour-Guide-Fall-2027--FWS-Eligible-_R0089069) |
@@ -169,7 +173,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Summer 2027 Internship - Product Analyst (Navigator) | addepar1 | New York, NY |  | 2026-11-13 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) |
 | Summer 2027 Intern-Provider Portal Operations | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15149) |
 | Summer 2027 Intern - Data Science / Biostatistician | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-12 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
-| Communications & Public Relations Intern (Spring 2027) | ADP employer 7a6e2c9c | Columbus, OH, US |  | 2026-11-12 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7a6e2c9c-0ebf-47dc-9c56-97a0ea847dbf&ccId=19000101_000001&jobId=576960&lang=en_US&source=CC2) |
 | Internal Audit Intern 2027 - REMOTE | cnoinc | Carmel, IN |  | 2026-11-12 | [Apply](https://cnoinc.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Internal-Audit-Intern-2027---REMOTE_JR170431) |
 | FHA Lending Intern - Summer 2027 | greyco | New York, NY |  | 2026-11-12 | [Apply](https://greyco.wd108.myworkdayjobs.com/en-US/gti/job/New-York-NY/FHA-Lending-Intern---Summer-2027_JR0000155) |
 | Contracts Intern (Summer 2027) | axiomspace | Houston |  | 2026-11-12 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/en-US/external_career_site/job/Houston/Contracts-Intern--Summer-2027-_JR100906) |
@@ -202,9 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541) | Shield AI | San Diego, CA, US |  | 2026-11-12 | [Apply](https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be) |
 | RF Engineering Co-op (Jul - Dec 2027) | Emerson Electric | Santa Rosa, CA, United States |  | 2026-11-11 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013238) |
 | 2027 Summer Intern: Business Analyst Intern RC&S | UL Solutions | Northbrook, IL, United States |  | 2026-11-11 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11495) |
-| 2027 R&D Product Engineering Co-Op | Sherwin-Williams | Brecksville, OH, United States |  | 2026-11-11 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629003) |
-| Software Engineering Intern (Graduate) (Summer 2027) | Vertiv | Huntsville, AL, United States |  | 2026-11-11 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817) |
-| Construction Intern, Summer 2027 | Michael Baker International | Harrisburg, PA, United States |  | 2026-11-11 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191) |
 <!-- JOBS_TABLE_END -->
 
 <details>
