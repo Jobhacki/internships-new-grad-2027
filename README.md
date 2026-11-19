@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>15,262</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>15,354</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 00:17 UTC</sub>
+<sub>Snapshot 2026-11-19 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**15,262 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 00:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**15,354 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Corporate Wellness Internship - Spring 2027 | exos | San Diego, CA |  | 2026-11-19 | [Apply](https://exos.wd501.myworkdayjobs.com/en-US/exoscareers/job/San-Diego-CA/Corporate-Wellness-Internship---Spring-2027_26-2154-1) |
 | Learning Experience Design Intern - Spring 2027 | dmainc | Indianapolis New Office |  | 2026-11-19 | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Indianapolis-New-Office/Learning-Experience-Design-Intern---Spring-2027_REQ789) |
 | Analytics Engineering Intern (Undergraduate Summer 2027) | centene | Remote-MO |  | 2026-11-19 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Analytics-Engineering-Intern--Undergraduate-Summer-2027-_1667721) |
 | Electrical Engineering Intern- Summer 2027 | aep | Columbus, OH |  | 2026-11-19 | [Apply](https://aep.wd1.myworkdayjobs.com/en-US/aepcareersite/job/Columbus-OH/Electrical-Engineering-Intern--Summer-2027_R20503) |
@@ -62,7 +63,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Summer Corporate Intern - Communications | cat | 2 Locations |  | 2026-11-19 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) |
 | Operations Manager Intern (Starting Summer 2027) Regional Distribution Center,... | Target | 1 Walker Way, West Jefferson,OH 43162-9406 |  | 2026-11-19 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139) |
 | Store Brands Corporate Internship - Summer 2027 | CVS Health | RI - Woonsocket |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Store-Brands-Corporate-Internship---Summer-2027_R1106847) |
-| 2027 Summer Intern - PMCM | ESP | Fort Collins, CO, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19f60eaf-98fb-417a-968b-76169b26daaf&ccId=19000101_000001&jobId=590730&lang=en_US&source=CC2) |
+| Product Design Graduate Intern (Summer 2027) | Sigma Computing | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) |
 | Sales/Growth Development Intern (2027 Grads) | Privia Health | Remote, US, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/PriviaHealth/744000162401759) |
 | Intern, Federal Policy (Summer 2027) | southernpovertylawcenter | Washington, D.C. |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950751002) |
 | Intern, Hate Prevention (Summer 2027) | southernpovertylawcenter | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8950825002) |
@@ -91,7 +92,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Data Science Intern (MS/PhD)-Summer 2027 | bristolmyerssquibb | Remote - United States - US |  | 2026-11-18 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Remote---United-States---US/Data-Science-Intern--MS-PhD--Summer-2027_R1608664) |
 | Data Science Intern (Undergrad)-Summer 2027 | bristolmyerssquibb | Remote - United States - US |  | 2026-11-18 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665) |
 | Digital Design Engineering Intern - Summer 2027 | analogdevices | US, TX, Austin, Plaza on the Lake |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548) |
-| INTERN/Global Patient Safety (Summer 2027) | amgen | United States - Remote |  | 2026-11-18 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/INTERN-Global-Patient-Safety--Summer-2027-_R-260517) |
 | 2027 Spring System Data Scientist /Analyst Co-op, MS or Phd - Gloucester, MA | amat | Gloucester,MA |  | 2026-11-18 | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Spring-System-Data-Scientist--Analyst-Co-op--MS-or-Phd---Gloucester--MA_R2632175) |
 | Summer 2027 Intern - Policy, Office of Ethical and Humane Use (OHEU) | Salesforce | California - San Francisco |  | 2026-11-18 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2) |
 | Target Creative Intern-Minneapolis, MN (Starting Summer 2027) | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-18 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Target-Creative-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000480617) |
@@ -146,8 +146,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Summer Internship, Fund Administration | theriversidecompany | Cleveland, OH |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/theriversidecompany/jobs/8949043002) |
 | Winter/Spring 2027 Optical Engineering Fellow | pacificfusion | San Leandro, CA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4511251009) |
 | Inside Sales Intern (Summer 2027) | cohesity | Heathrow, FL - USA (Office) |  | 2026-11-17 | [Apply](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Heathrow-FL---USA-Office/Inside-Sales-Intern--Summer-2027-_R04825-1) |
-| Undergrad Intern – R&D EOS / Global Program Management (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924) |
-| Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Change-Readiness-and-Organization-Effectiveness--Summer-2027-_R-261940) |
 | Summer 2027 Clinical Supply Chain Coordinator Intern | astrazeneca | US - Boston - MA |  | 2026-11-17 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Boston---MA/Summer-2027-Clinical-Supply-Chain-Coordinator-Intern_R-264542) |
 | Pharmacy Pre-Grad Intern - WM - $40,000 Sign On Bonus (2027 Grad Sign On Progra... | Walmart | (USA) MS GREENVILLE 00182 WM SUPERCENTER |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-GREENVILLE-00182-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2678518-1) |
 | Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mil... | Walmart | (USA) Together Building AR Bentonville Home Office |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2706199) |
@@ -177,6 +175,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Accounting Intern - Spring 2027 | The Jeffcoat Firm Injury & Accident Lawyers... | Columbia, SC |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668104) |
 | SAI - Intern (Indigenous Programs) - 2027 | Shee Atika Government Services Careers | Sitka |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667962) |
 | SHF - Internship - 2027 | Shee Atika Government Services Careers | Remote Worker - US Only |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619697) |
+| 2027 Summer Internship (MBA) - Product | duetti | New York, NY |  | 2026-11-16 | [Apply](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2) |
 | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-16 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342956&lang=en) |
 | Executive Office Small Business Initiative (SBI) Research Intern – Spring 2027 | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-16 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007ZS&lang=en) |
 | Hardware Verification Engineer Co-Op (Spring 2027) | Ralliant | Solon, OH, United States |  | 2026-11-16 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10490) |
@@ -205,6 +204,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | ServiceNow | Santa Clara, CALIFORNIA, US |  | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) |
 | Transportation Design Intern - Texas (Summer 2027) | woolpert | Dallas, TX |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4505485009) |
 | Spring 2027: Service Desk Co-op (January to June) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727535006) |
+| Summer 2027: HW UX/UI Design Intern (May through August) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-16 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) |
 <!-- JOBS_TABLE_END -->
 
 <details>
