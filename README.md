@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>15,788</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>15,571</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 12:18 UTC</sub>
+<sub>Snapshot 2026-11-19 16:15 UTC</sub>
 
 </div>
 
@@ -50,11 +50,28 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**15,788 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 12:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**15,571 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 16:15 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Art Bridges Summer 2027 Marketing & Communications Intern | awe | Bentonville, AR |  | 2026-11-19 | [Apply](https://awe.wd1.myworkdayjobs.com/en-US/art_and_wellness/job/Bentonville-AR/Art-Bridges-Summer-2027-Marketing---Communications-Intern_JR2647) |
+| Art Bridges Summer 2027 Collection Loans and Exhibitions Internship | awe | Bentonville, AR |  | 2026-11-19 | [Apply](https://awe.wd1.myworkdayjobs.com/en-US/art_and_wellness/job/Bentonville-AR/Art-Bridges-Summer-2027-Collection-Loans-and-Exhibitions-Internship_JR2648) |
+| Art Bridges Summer 2027 Impact & Awards Systems Internship | awe | Bentonville, AR |  | 2026-11-19 | [Apply](https://awe.wd1.myworkdayjobs.com/en-US/art_and_wellness/job/Bentonville-AR/Art-Bridges-Summer-2027-Impact---Awards-Systems-Internship-_JR2649) |
+| Facilities Engineering Co-Op 2027 | rehlko | Sheboygan,WI |  | 2026-11-19 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Facilities-Engineering-Co-Op-2027_R05233) |
+| Continuous Improvement Intern 2027 | rehlko | Sheboygan,WI |  | 2026-11-19 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Continuous-Improvement-Intern-2027_R05234) |
+| Grad Intern – Biophysical Assay Technology Development (Summer 2027) | amgen | US - California - South San Francisco |  | 2026-11-19 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Grad-Intern---Biophysical-Assay-Technology-Development--Summer-2027-_R-261996) |
+| Pharmacy Grad Intern (Hrly) - $30,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) OK BROKEN ARROW 03508 NEIGHBORHOOD MARKET |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OK-BROKEN-ARROW-03508-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--Hrly-----30-000-Sign-On-Bonus--2027-Grad-Sign-On-Program-_R-2714317) |
+| Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | Somerset, KY |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Somerset-KY/Pharmacy-Grad-Intern--Hrly-_R-2708845) |
+| Pharmacy Grad Intern (hrly) - $30,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) OK TULSA 06170 NEIGHBORHOOD MARKET |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OK-TULSA-06170-NEIGHBORHOOD-MARKET/Pharmacy-Grad-Intern--hrly-----30-000-Sign-On-Bonus--2027-Grad-Sign-On-Program-_R-2714298) |
+| Summer 2027 Graduate Internship - Capital Strategy & Planning | Humana | 2 Locations |  | 2026-11-19 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Arlington-VA/Summer-2027-Graduate-Internship---Capital-Strategy---Planning_R-430498) |
+| Spring 2027: Cost Engineering Co-op (January to June) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006) |
+| 2027 - Tax Intern, New York City | MongoDB | New York City |  | 2026-11-19 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8301842) |
+| 2027 - AI and People Transformation Intern, NYC | MongoDB | New York City |  | 2026-11-19 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8346138) |
+| Brand and Communications - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8949799002) |
+| Trading Sneak Peek Program: May 2027 (Reaching Women+) | Akuna Capital | Chicago |  | 2026-11-19 | [Apply](https://www.akunacapital.com/careers/job/8011686/?gh_jid=8011686) |
+| Trading Sneak Peek Program: August 2027 | Akuna Capital | Chicago |  | 2026-11-19 | [Apply](https://www.akunacapital.com/careers/job/8011610/?gh_jid=8011610) |
+| Trading Sneak Peek Program: January 2027 | Akuna Capital | Chicago |  | 2026-11-19 | [Apply](https://www.akunacapital.com/careers/job/8011500/?gh_jid=8011500) |
 | Corporate Wellness Internship - Spring 2027 | exos | San Diego, CA |  | 2026-11-19 | [Apply](https://exos.wd501.myworkdayjobs.com/en-US/exoscareers/job/San-Diego-CA/Corporate-Wellness-Internship---Spring-2027_26-2154-1) |
 | Learning Experience Design Intern - Spring 2027 | dmainc | Indianapolis New Office |  | 2026-11-19 | [Apply](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Indianapolis-New-Office/Learning-Experience-Design-Intern---Spring-2027_REQ789) |
 | Analytics Engineering Intern (Undergraduate Summer 2027) | centene | Remote-MO |  | 2026-11-19 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Analytics-Engineering-Intern--Undergraduate-Summer-2027-_1667721) |
@@ -86,15 +103,12 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Photonics Circuit Simulation Intern – Summer 2027 | lightmatter | Mountain View, CA |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) |
 | Risk Services - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938447002) |
 | iCapital Marketplace - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8950295002) |
-| Data Solutions - Summer 2027 Intern | icapitalnetwork | Stamford, Connecticut, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) |
 | Video Content Creator Intern (Summer 2027) | formlabs | Somerville, MA |  | 2026-11-18 | [Apply](https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549) |
 | 2027 (Summer) Marketing - Social Media Intern | formlabs | Somerville, MA |  | 2026-11-18 | [Apply](https://careers.formlabs.com/job/8400491/apply/?gh_jid=8400491) |
 | AI Applied Research PhD Intern, Summer 2027 | crusoe | San Francisco, CA - US |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/Crusoe/8d1d162e-7bed-44fb-aff8-6af75b62937b) |
 | TP ICAP Global Broking Summer 2027 Intern Program | tp | New York |  | 2026-11-18 | [Apply](https://tp.wd107.myworkdayjobs.com/en-US/tp-icap/job/New-York/TP-ICAP-Global-Broking-Summer-2027-Intern-Program_R6064) |
 | Indirect Procurement 2027 Summer Internship (Full Time/Paid/12 weeks) | acehardware | IL - Oak Brook |  | 2026-11-18 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/IL---Oak-Brook/Indirect-Procurement-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-35065) |
 | Supply Chain Intern 2027 | rehlko | Sheboygan,WI |  | 2026-11-18 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Supply-Chain-Intern-2027_R05222) |
-| Manufacturing Engineering Co-Op 2027 | rehlko | Sheboygan,WI |  | 2026-11-18 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Manufacturing-Engineering-Co-Op-2027_R05223) |
-| Smart Factory Intern 2027 | rehlko | Sheboygan,WI |  | 2026-11-18 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Smart-Factory-Intern-2027_R05224-1) |
 | Summer 2027 Internship - San Diego, CA - Juris Banking Loan | westernalliancebank | San Diego, CA |  | 2026-11-18 | [Apply](https://westernalliancebank.wd5.myworkdayjobs.com/en-US/wab/job/San-Diego-CA/Summer-2027-Internship---San-Diego--CA---Juris-Banking-Loan_R13925) |
 | 2027 Composites Undergraduate Intern | aero | El Segundo, CA |  | 2026-11-18 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Composites-Undergraduate-Intern_R017255) |
 | 2027 Acquisition and Analysis Undergrad Intern | aero | El Segundo, CA |  | 2026-11-18 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Acquisition-and-Analysis-Undergrad-Intern_R017129) |
@@ -112,6 +126,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Food Safety & Quality 2027 Intern/Co-Op | hoodhp | Wilmington, MA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/hoodhp/jobs/5474617008) |
 | Forensic Accounting Summer 2027 Internship – Family Law | J.S. Held | Irvine, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/JSHeldLLC/744000162371669) |
 | 2027 Site Reliability Engineer Intern-Afton, Texas | galaxydigitalservices | Afton, Texas |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) |
+| Spring 2027, Design Intern | globalstrategygroup | New York, NY |  | 2026-11-18 | [Apply](https://jobs.lever.co/globalstrategygroup/cb78b70f-3fcc-402e-82f6-bfbf1628cbe0) |
 | Mechanical Engineering Intern / Summer 2027 | dlrgroup | Chicago, Illinois, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008) |
 | 2027 Business Systems Engineer Intern | Anduril Industries | Costa Mesa, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) |
 | Spring 2027 Engineering Internship | Castelion | Rio Rancho, NM; Torrance, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4464192009) |
@@ -136,14 +151,13 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Engineering Intern - Florence, KY (Summer 2027) | clarios | United States, Kentucky, Florence |  | 2026-11-18 | [Apply](https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Kentucky-Florence/Engineering-Intern---Florence--KY--Summer-2027-_WD51291-1) |
 | Quality Intern - Florence, KY (Summer 2027) | clarios | United States, Kentucky, Florence |  | 2026-11-18 | [Apply](https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Kentucky-Florence/Quality-Intern---Florence--KY--Summer-2027-_WD51292) |
 | Corporate Wellness Internship - Spring 2027 | exos | Burbank, CA |  | 2026-11-18 | [Apply](https://exos.wd501.myworkdayjobs.com/en-US/exoscareers/job/Burbank-CA/Corporate-Wellness-Internship---Spring-2027_26-2139) |
-| Battery Modeling Intern - Santa Clara, CA - Spring 2027 | alliance | Santa Clara, California - United States of America |  | 2026-11-18 | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Battery-Modeling-Intern---Santa-Clara--CA---Spring-2027_R00216727) |
 | Analog Design Engineering Intern - Summer 2027 | analogdevices | US, TX, Dallas, Tollway |  | 2026-11-18 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-TX-Dallas-Tollway/Analog-Design-Engineering-Intern---Summer-2027_R268074) |
 | New College Grad - Process Engineer III - PhD (2027 Summer Cohort) | amat | Santa Clara,CA |  | 2026-11-18 | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/New-College-Grad---Process-Engineer-III---PhD--2027-Summer-Cohort-_R2627920) |
 | University - 2027 Summer Games Data Scientist Intern - McLean, VA | bah | McLean, VA |  | 2026-11-18 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0253697) |
 | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach | bah | Fort Walton Beach, FL |  | 2026-11-18 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach_R0253698) |
 | University, 2027 Summer Games Software Developer Intern - McLean, VA | bah | McLean, VA |  | 2026-11-18 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0253700) |
-| Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) CT PUTNAM 01980 WM SUPERCENTER |  | 2026-11-18 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CT-PUTNAM-01980-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2704056) |
 | Retail Store Management Internship Summer 2027 - Greater Sacramento Area | CVS Health | 30 Locations |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Pleasanton/Retail-Store-Management-Internship-Summer-2027---Greater-Bay-Area--East-Bay---North-Bay_R1018174) |
+| 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415 | Shield AI | Seattle, WA, US |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed) |
 | 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | Textron | Hunt Valley, MD, US |  | 2026-11-17 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&lang=en) |
 | Spring 2027 Operations Co-Op | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-17 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000808&lang=en) |
 | Summer 2027 Land Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-17 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605796&lang=en) |
@@ -157,12 +171,8 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Winter/Spring 2027 Optical Engineering Fellow | pacificfusion | San Leandro, CA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4511251009) |
 | Inside Sales Intern (Summer 2027) | cohesity | Heathrow, FL - USA (Office) |  | 2026-11-17 | [Apply](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Heathrow-FL---USA-Office/Inside-Sales-Intern--Summer-2027-_R04825-1) |
 | Undergrad Intern – R&D EOS / Global Program Management (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924) |
-| Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027) | amgen | United States - Remote |  | 2026-11-17 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Change-Readiness-and-Organization-Effectiveness--Summer-2027-_R-261940) |
 | Summer 2027 Clinical Supply Chain Coordinator Intern | astrazeneca | US - Boston - MA |  | 2026-11-17 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Boston---MA/Summer-2027-Clinical-Supply-Chain-Coordinator-Intern_R-264542) |
-| Pharmacy Pre-Grad Intern - WM - $40,000 Sign On Bonus (2027 Grad Sign On Progra... | Walmart | (USA) MS GREENVILLE 00182 WM SUPERCENTER |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MS-GREENVILLE-00182-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2678518-1) |
-| Summer 2027 Corporate Intern: Platform Stability & Defect Prevention – Last Mil... | Walmart | (USA) Together Building AR Bentonville Home Office |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-Corporate-Intern--Platform-Stability---Defect-Prevention---Last-Mile-Delivery_R-2706199) |
 | AI Operations Intern, AI Clouds - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) |
-| UX Designer Intern (Summer 2027) | Zoox | Foster City, CA |  | 2026-11-17 | [Apply](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93) |
 | Civil Engineering Internship - Summer 2027 | TimmonsGroup1 | Raleigh, NC, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000162146459) |
 | Intern, Digital Properties and Innovation - Digital Media (Summer 2027) | southernpovertylawcenter | Atlanta, GA; Montgomery, AL; Jackson, MS; Miami, FL; New Orleans, LA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8947982002) |
 | Product & Test Engineering, Intern Summer 2027 | lightmatter | Mountain View, CA |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008) |
@@ -195,16 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Environmental Planning Intern - Summer 2027 | WSP | Portland, OR, United States |  | 2026-11-16 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99549) |
 | Early Careers: Early Careers: Corporate Risk & Broking Construction Part-time I... | WTW | Minneapolis, MN, United States |  | 2026-11-16 | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607332) |
 | Site Safety Internship (Summer 2027) | blattner | United States |  | 2026-11-16 | [Apply](https://blattner.wd5.myworkdayjobs.com/en-US/blattnerenergy/job/United-States/Site-Safety-Internship--Summer-2027-_R8268-1) |
-| Actuarial Summer 2027 Intern (Undergraduate) | centene | Remote-MO |  | 2026-11-16 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Actuarial-Summer-2027-Intern--Undergraduate-_1660519) |
-| Business Operations/Project Management Summer 2027 Intern (Undergraduate) | centene | Remote-MO |  | 2026-11-16 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Business-Operations-Summer-2027-Intern--Undergraduate-_1660516) |
-| 2027 Corporate Intern - Commercial Banking | associatedbank | Omaha 8990 Dodge |  | 2026-11-16 | [Apply](https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Omaha-8990-Dodge/XMLNAME-2027-Corporate-Intern---Commercial-Banking_JR106720) |
-| Operations Internship, Spring 2027 | jbhunt | Houston, TX - Gellhorn Dr. |  | 2026-11-16 | [Apply](https://jbhunt.wd501.myworkdayjobs.com/en-US/careers/job/Houston-TX---Gellhorn-Dr/Operations-Internship--Spring-2027_00652425) |
-| Internship Program - Midwest Region - 2026 - 2027 | walshgroup | IL\_Chicago\_826090 |  | 2026-11-16 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/IL_Chicago_826090/Internship-Program---Midwest-Region---2026---2027_JR17071) |
-| Winter 2027 Assurance Internship - Kansas City | bakertilly | USA KS Overland Park 7285 West 132nd St |  | 2026-11-16 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-KS-Overland-Park-7285-West-132nd-St/Winter-2027-Assurance-Internship---Kansas-City_JR106701) |
-| Materials, Metallurgy, Chemistry & Polymer Engineering Internship Program (Spri... | copeland | 2 Locations |  | 2026-11-16 | [Apply](https://copeland.wd5.myworkdayjobs.com/en-US/copeland_external_careers_page/job/Sidney-OH-USA/Materials--Metallurgy--Chemistry---Polymer-Engineering-Internship-Program--Spring---Summer-2027-_JR119612) |
-| 2027 Co-Op: Laboratory Logistics (6 months, Jan. start) | gsknch | USA - Virginia - Richmond |  | 2026-11-16 | [Apply](https://gsknch.wd3.myworkdayjobs.com/en-US/gskcareers/job/USA---Virginia---Richmond/XMLNAME-2027-Co-Op--Laboratory-Logistics--6-months--Jan-start-_548412) |
-| Summer 2027 Audit Internship | huntington | 5 Locations |  | 2026-11-16 | [Apply](https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Summer-2027-Audit-Internship_R0075312) |
-| Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-16 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509) |
 <!-- JOBS_TABLE_END -->
 
 <details>
