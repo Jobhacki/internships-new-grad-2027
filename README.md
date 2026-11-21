@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,167</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,182</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 00:17 UTC</sub>
+<sub>Snapshot 2026-11-21 04:16 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**16,167 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 00:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**16,182 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 04:16 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -58,9 +58,13 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Supply Chain Process Intern (Summer 2027) | acehardware | CA - Visalia |  | 2026-11-21 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
 | Summer 2027 MBA Intern: APD Product Manager - MBA | Walmart | (USA) Together Building AR Bentonville Home Office |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | Software Engineer, DL Kernel Libraries - New College Grad 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Columbus, OH |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/9da235e9-577b-4695-84bb-90d66b4d01c7) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/93352800-5bd9-41a6-a838-b41c3eaca0c6) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | St. Paul, MN |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b) |
+| Intern, Thematic Equities Research (Summer of 2027) | Bfsaul | Bethesda, Maryland |  | 2026-11-20 | [Apply](https://jobs.lever.co/bfsaul/ba71b8a2-95de-4176-b3d7-a9b9d72db230) |
+| Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
+| Intern, ADAS Platform Tools, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) |
+| Intern - Molten Salt Blanket Engineer - Summer 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) |
+| Intern - Electrical Engineer, RF Heating Systems - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0) |
+| Intern - Electrical Engineer - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747) |
+| Summer 2027 - Mechanical Engineering Internship | CesiumAstro | El Segundo, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/CesiumAstro/6bbaaee4-2d16-4fcf-89ba-f6791960a099) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
 | Power Electronics Control Engineer Intern, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) |
 | Cinematic Presentation Design Intern (Spring 2027) | crystaldynamics | Remote/Flexible - United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4757465005) |
@@ -82,8 +86,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Government Funded Student Intern (WDTS) - Spring 2027 | LLNL | Livermore, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990017013616) |
 | Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Intern... | pacificfusion | San Leandro, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) |
 | Summer 2027 Controls Electrical Engineer Internship | pacificfusion | San Leandro, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009) |
-| Intern, AI/ML, Vehicle Infotainment, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) |
-| Intern, Vehicle Motion Controls Engineer, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) |
 | Product Management - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002) |
 | Portfolio Management - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8957001002) |
 | Enterprise Initiatives and Governance - Summer 2027 Intern | icapitalnetwork | New York, New York, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938000002) |
@@ -194,6 +196,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Operations Manager Intern (Starting Summer 2027) Regional Distribution Center,... | Target | 1 Walker Way, West Jefferson,OH 43162-9406 |  | 2026-11-19 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139) |
 | Store Brands Corporate Internship - Summer 2027 | CVS Health | RI - Woonsocket |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Store-Brands-Corporate-Internship---Summer-2027_R1106847) |
 | Environmental Health and Safety Co-op MI (Winter 2027) | JOST International | Grand Haven, MI |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596670) |
+| Process Improvement Intern (Summer 2027) | Zoox | Foster City, CA |  | 2026-11-18 | [Apply](https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f) |
 | Stage hiver 2027 - Technologie de l'information des systèmes de qualité / 2027... | Textron | Quebec, CA, US |  | 2026-11-18 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=346366&lang=en) |
 | Stage Hiver 2027 - Gestion des compétences / 2027 Winter Internship - Skills de... | Textron | Quebec, CA, US |  | 2026-11-18 | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=346380&lang=en) |
 | Student Opportunities - Business Operations Internships - Spring 2027 (Hybrid) | Cincinnati Financial | Fairfield, OH, US |  | 2026-11-18 | [Apply](https://cinfin.taleo.net/careersection/ex/jobdetail.ftl?job=2600894&lang=en) |
@@ -202,9 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Product Design Graduate Intern (Summer 2027) | Sigma Computing | San Francisco, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8208914003) |
 | Sales/Growth Development Intern (2027 Grads) | Privia Health | Remote, US, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/PriviaHealth/744000162401759) |
 | Program Management & Operations Internships – Summer 2027 | NBCUniversal | Universal City, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000162407819) |
-| NBC Sports Programming Internships – Summer 2027 | NBCUniversal | Stamford, CT, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000162407064) |
-| New Grad 2027 - Materials & Processes Engineer I | Relativity Space | Long Beach, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002) |
-| CI Operations Intern - 2027 | oriongroup | Boulder, CO |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/oriongroup/jobs/4730308006) |
 <!-- JOBS_TABLE_END -->
 
 <details>
