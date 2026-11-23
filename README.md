@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,122</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,221</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,17 +50,19 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**16,122 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**16,221 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Intern/Co-op - Manufacturing - Spring 2027 Opportunities | bakerhughes | US-LA-BROUSSARD-1046 ALLIER ROAD |  | 2026-11-23 | [Apply](https://bakerhughes.wd5.myworkdayjobs.com/en-US/bakerhughes/job/US-LA-BROUSSARD-1046-ALLIER-ROAD/Intern-Co-op---Manufacturing---Spring-2027-Opportunities_R169443) |
 | 2027 Internship, Spring - Academy Scout | RedBull | Morristown, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139079) |
 | 2027 Internship, Spring - RBII Team Analysis | RedBull | Morristown, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139439) |
 | 2027 Internship, Spring - Academy Administration & Operations | RedBull | Morristown, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163139519) |
 | Product Management Intern (Summer 2027) | first-resonance | Los Angeles |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741) |
 | Forward Deployed Engineering Intern (Summer 2027) | first-resonance | Los Angeles |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a) |
 | Software Engineering Intern, Platform (Summer 2027) | first-resonance | Los Angeles |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7) |
+| 2027 R&D Summer Internship- Pittsburgh | Sherwin-Williams | Pittsburgh, PA, United States |  | 2026-11-22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849) |
 | Firmware/Embedded Software Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | 2027 Ogilvy Creative Summer Internship | ogilvy | Chicago, United States |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) |
 | 2027 Ogilvy Creative Summer Internship | ogilvy | New York, New York |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757353005?gh_jid=4757353005) |
@@ -68,7 +70,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Mechanical Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) |
 | Electrical Engineering Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
 | Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) IN PORTAGE 02544 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-PORTAGE-02544-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2681121) |
-| Internship, Supply Chain Analyst (Summer 2027) | pivotal | Palo Alto, CA |  | 2026-11-21 | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be) |
 | Supply Chain Process Intern (Summer 2027) | acehardware | CA - Visalia |  | 2026-11-21 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
 | Summer 2027 MBA Intern: APD Product Manager - MBA | Walmart | (USA) Together Building AR Bentonville Home Office |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | Software Engineer, DL Kernel Libraries - New College Grad 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) |
@@ -160,7 +161,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Summer 2027 Intern - Sales Grand Rapids | Blue Cross Blue Shield of Michigan | Grand Rapids, MI, United States |  | 2026-11-19 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15034) |
 | 2027 Spring Engineering Co-Op - Fernley, NV | Sherwin-Williams | Fernley, NV, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624843) |
 | 2027 Spring Engineering Co-Op - Greensboro, NC | Sherwin-Williams | Greensboro, NC, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624848) |
-| 2027 Spring Engineering Co-Op - Holland, MI | Sherwin-Williams | Holland, MI, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2624788) |
 | AI Intern (Summer 2027) | Vertiv | Huntsville, AL, United States |  | 2026-11-19 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) |
 | Internships (Summer 2027) - General Interest | True Anomaly | Colorado Springs, CO; Denver, CO; Long Beach, CA; Washington, DC |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5302813007) |
 | 2027 (Summer) API & Automation Intern | formlabs | Somerville, MA |  | 2026-11-19 | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
@@ -171,8 +171,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Intern, State Community Organizer, Mississippi State Office (Summer 2027) | southernpovertylawcenter | Jackson, MS |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955345002) |
 | Intern, IT Project Management (Summer 2027) | southernpovertylawcenter | Montgomery, AL; Atlanta, GA |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955692002) |
 | Intern, Human Resources (Summer 2027) | southernpovertylawcenter | Montgomery, Alabama; New Orleans, LA; Atlanta, GA; Miami, FL; Washing... |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/southernpovertylawcenter/jobs/8955457002) |
-| Internship, Quality (Summer 2027) | pivotal | Palo Alto, CA |  | 2026-11-19 | [Apply](https://jobs.lever.co/pivotal/b834685e-f5b7-4d70-a25a-b7c7510f530b) |
-| Internship, GNC Engineering (Summer 2027) | pivotal | Palo Alto, CA |  | 2026-11-19 | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) |
 | 2027 Spring Intern, Memory Subsystem, SoC Architecture | samsungresearchamericainternship | 665 Clyde Avenue, Mountain View, CA, USA |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8949357002) |
 | Total Rewards Intern Summer 2027 | Rocket Lab Corporation | Long Beach, CA |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) |
 | Data Privacy Intern (Summer 2027) | minitab | State College, Pennsylvania, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200490003) |
@@ -205,6 +203,8 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Facilities Engineering Co-Op 2027 | rehlko | Sheboygan,WI |  | 2026-11-19 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Facilities-Engineering-Co-Op-2027_R05233) |
 | Continuous Improvement Intern 2027 | rehlko | Sheboygan,WI |  | 2026-11-19 | [Apply](https://rehlko.wd12.myworkdayjobs.com/en-US/reh/job/SheboyganWI/Continuous-Improvement-Intern-2027_R05234) |
 | Grad Intern – Biophysical Assay Technology Development (Summer 2027) | amgen | US - California - South San Francisco |  | 2026-11-19 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Grad-Intern---Biophysical-Assay-Technology-Development--Summer-2027-_R-261996) |
+| Summer 2027 Graduate Internship - Capital Strategy & Planning | Humana | 2 Locations |  | 2026-11-19 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Arlington-VA/Summer-2027-Graduate-Internship---Capital-Strategy---Planning_R-430498) |
+| Spring 2027: Cost Engineering Co-op (January to June) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4730253006) |
 <!-- JOBS_TABLE_END -->
 
 <details>
