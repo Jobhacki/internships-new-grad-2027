@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,842</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,753</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 00:18 UTC</sub>
+<sub>Snapshot 2026-11-25 04:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,22 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**16,842 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 00:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**16,753 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 04:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| 2027 Embedded Software Engineering Undergrad Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R017321) |
-| 2027 Power and Analog Circuit Engineering Undergrad Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergrad-Intern_R017288) |
+| 2027 Mechanical Systems Graduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Mechanical-Systems-Graduate-Intern_R017301) |
+| 2027 Explosives Systems Undergraduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Explosives-Systems-Undergraduate-Intern_R017304) |
+| 2027 Explosives Systems Graduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Explosives-Systems-Graduate-Intern_R017303) |
+| Software Engineering Intern, Simulation Technology - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531) |
+| Universal Studios Hollywood, Technical Services, Mechanical Engineering Interns... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264) |
+| Universal Studios Hollywood, Food & Beverage, Food Distribution Center Internsh... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163600599) |
+| Universal Studios Hollywood, Food & Beverage, Food Quality & Safety Internship... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163601600) |
 | AI and Quant DevTech Engineering Intern – Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517) |
+| Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) |
+| Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) |
+| Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) |
 | Design Verification, Intern Summer 2027 | lightmatter | Boston, MA |  | 2026-11-24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008) |
 | Design Verification, Intern Summer 2027 | lightmatter | Mountain View, CA |  | 2026-11-24 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008) |
 | Field Test Operations Intern (January 2027 Start) | gitai | Los Angeles, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/gitai/jobs/5494154008) |
@@ -86,7 +94,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Undergrad Intern - Commercialization Technology and Decision Support (Summer 20... | amgen | United States - Remote |  | 2026-11-24 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Commercialization-Technology-and-Decision-Support--Summer-2027-_R-261663) |
 | Undergrad Intern – Global Patient Safety (Summer 2027) | amgen | United States - Remote |  | 2026-11-24 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Global-Patient-Safety--Summer-2027-_R-260144) |
 | Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) CO GRAND JUNCTION 05099 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-GRAND-JUNCTION-05099-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-----50-000-Sign-On-Bonus--2027-Grad-Sign-On-Program-_R-2717380) |
-| Developer Technology Intern, AI - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-24 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178) |
 | Emerging Talent - Industrial Engineering Intern Summer 2027 | senrasystems | Cypress, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5492275008) |
 | Product Management Intern (MSP), Winter 2027 | rubrik | Palo Alto, CA |  | 2026-11-24 | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) |
 | Summer 2027 Inventory, Facility, and Logistics Internship | pacificfusion | Los Lunas, NM |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4517332009) |
@@ -140,6 +147,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Sustainability and Business Analytics Intern- Heavy Civil Infrastructure Summer... | sbusa | Pittsburgh, PA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sbusa/jobs/5492846008) |
 | 2027 Internship, Spring - Graphic Design | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163296309) |
 | 2027 LLR Diversity Collaborate - Summer 2028 Investment Team Internship | llrpartnersjobs | Philadelphia |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4479187009) |
+| Summer 2027 Accounting Intern | harrisonst | Chicago, IL |  | 2026-11-23 | [Apply](https://jobs.lever.co/harrisonst/270f8c23-2116-4be7-87d2-1c5d16be42e7) |
 | Retirement Intern - Summer 2027 | imafinancialgroup | Atlanta, GA |  | 2026-11-23 | [Apply](https://imacorp.com/careers/openings/5275186007?gh_jid=5275186007) |
 | 2027 Summer Intern - Software Engineering - 5815 | Shield AI | Dallas, TX, US |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
 | Software Engineer, Winter 2027 (Co-op/Internship) -4 months | bmo | San Ramon, CA, USA |  | 2026-11-23 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974) |
@@ -188,10 +196,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
 | Cinematic Presentation Design Intern (Spring 2027) | crystaldynamics | Remote/Flexible - United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4757465005) |
 | 2027 Internship Marketing Intern | bedrock-robotics | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/4a2a5456-92c4-4d25-bdff-662ff27da790) |
-| 2027 Summer Civil Engineering Intern | BKF | Sacramento, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/44D0B5F034) |
-| 2027 Summer Civil Engineering Intern | BKF | Costa Mesa, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C1D9A52F42) |
 | Credit Analyst Internship - Chicago, IL (Summer 2027) | bmo | Chicago, IL, USA |  | 2026-11-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/Chicago-IL-USA/Credit-Analyst-Internship---Chicago--IL--Summer-2027-_R260030161) |
-| 2027 Software Systems Engineer and Acquisition Grad Intern | aero | 2 Locations |  | 2026-11-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175) |
 | Summer 2027 Supply Chain Buyer Intern- Bachelor's (Santa Clara, CA) | amat | Santa Clara,CA |  | 2026-11-20 | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Buyer-Intern--Bachelor-s--Santa-Clara--CA-_R2627066) |
 | Summer 2027 Intern - Field Marketing, Missionforce | Salesforce | Virginia - Mclean |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1) |
 | Summer 2027 Intern - Product Marketing, Missionforce | Salesforce | California - San Francisco |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1) |
@@ -200,11 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Survey Internship (Summer 2027) | woolpert | Virginia Beach, VA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426156009) |
 | Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis) | Resultant | Indianapolis, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
 | Government Funded Student Intern (WDTS) - Spring 2027 | LLNL | Livermore, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990017013616) |
-| Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Intern... | pacificfusion | San Leandro, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) |
-| Summer 2027 Controls Electrical Engineer Internship | pacificfusion | San Leandro, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009) |
-| 2027 Credit Summer Intern | gcmgrosvenor | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8208687003) |
-| 2027 Finance Internship | abbott | 10 Locations |  | 2026-11-20 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Finance-Internship_31159945) |
-| Corporate Functions Summer 2027 Intern (Undergraduate) | centene | Remote-MO |  | 2026-11-20 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Corporate-Functions-Summer-2027-Intern--Undergraduate-_1660521) |
 <!-- JOBS_TABLE_END -->
 
 <details>
