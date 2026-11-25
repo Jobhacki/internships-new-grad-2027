@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,843</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,949</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 08:18 UTC</sub>
+<sub>Snapshot 2026-11-25 12:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**16,843 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 08:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**16,949 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 12:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -63,6 +63,13 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Universal Studios Hollywood, Food & Beverage, Food Distribution Center Internsh... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163600599) |
 | Universal Studios Hollywood, Food & Beverage, Food Quality & Safety Internship... | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163601600) |
 | AI and Quant DevTech Engineering Intern – Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-25 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517) |
+| Applications Engineering Intern (Summer 2027) | Ralliant | Beaverton, OR, United States |  | 2026-11-24 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11249) |
+| Geographic Information Systems Science Intern - Summer 2027 | WSP | Denver, CO, United States |  | 2026-11-24 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
+| Mine Waste Intern - Summer 2027 | WSP | Tucson, AZ, United States |  | 2026-11-24 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99378) |
+| Summer 2027 Intern-Marketing Operations | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15206) |
+| Summer 2027 Intern-Business Performance | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14911) |
+| 2027 Environmental Health and Safety Intern - Covington, GA | Sherwin-Williams | Covington, GA, United States |  | 2026-11-24 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625214) |
+| Accounting Intern (2027 Internship Program) | DTCC | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214471) |
 | Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) |
 | Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) |
 | Software Engineer Intern - Summer 2027 | bandwidth | Raleigh, NC |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) |
@@ -119,6 +126,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | Mexia, TX |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Mexia-TX/Pharmacy-Grad-Intern--Hrly-_R-2711678-1) |
 | Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) TX WACO 05389 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-WACO-05389-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2711631-1) |
 | Financial Analyst Intern - Minneapolis, MN (Starting Summer, 2027) | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-24 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574) |
+| Engineering Co-Op - Spring 2027 | STAQ Pharma | Columbus, OH, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9acbf878-718b-4e5c-bdb5-7cbb9133c786&ccId=19000101_000001&jobId=956928&lang=en_US&source=CC2) |
 | Sensor Hardware Test and Validation Co-op (Spring 2027) | LineVision, Inc. | Boston, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686427) |
 | Grid Data Operations Analyst Co-op (Spring 2027) | LineVision, Inc. | Boston, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686445) |
 | Data Scientist Intern - Water (Summer 2027) | Stantec | San Diego, CA, United States |  | 2026-11-23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005) |
@@ -129,6 +137,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Quality Intern - Wheeling, IL | Sherwin-Williams | Wheeling, IL, United States |  | 2026-11-23 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625418) |
 | Engineering Intern - DC Power Systems (Summer 2027) | Vertiv | Lorain, OH, United States |  | 2026-11-23 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643) |
 | Maritime Summer 2027 Intern | DNV | Houston, TX, United States |  | 2026-11-23 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8094) |
+| 2027 Agronomy Internship at The Lido | dreamgolf | Nekoosa, WI |  | 2026-11-23 | [Apply](https://jobs.lever.co/dreamgolf/36e221a6-e1e4-4126-97c4-f3162893ae80) |
 | Intern, IT Help Desk Level 3, Summer 2027 | lucidmotors | Casa Grande, AZ |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) |
 | Intern, Automotive Interior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | Campus Recruiting Intern (Winter/Spring 2027) | formlabs | Somerville, MA |  | 2026-11-23 | [Apply](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) |
@@ -168,6 +177,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 The Ogilvy Group General Summer Internship | ogilvy | Chicago, United States |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757341005?gh_jid=4757341005) |
 | Mechanical Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) |
 | Electrical Engineering Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
+| Internship, Supply Chain Analyst (Summer 2027) | pivotal | Palo Alto, CA |  | 2026-11-21 | [Apply](https://jobs.lever.co/pivotal/711d6c44-a1f9-4ab4-943f-b6e8d53194be) |
 | Supply Chain Process Intern (Summer 2027) | acehardware | CA - Visalia |  | 2026-11-21 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
 | 2027 Summer Rotational Internship Program | Sanctuary Wealth | Indianapolis, IN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684132) |
 | Electrical Engineering Co-Op (May-December 2027) | McClure Engineering | MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682910) |
@@ -183,28 +193,18 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Summer 2027 Construction Intern | D.R. Horton | Tampa, FL, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605895&lang=en) |
 | Summer 2027 Sales Intern | D.R. Horton | Charlotte, NC, US |  | 2026-11-20 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605894&lang=en) |
 | Spring 2027 - AI & Data Analytics Intern | onsemi | Scottsdale, AZ, United States |  | 2026-11-20 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) |
-| Civil Engineering Intern- Summer 2027 | WSP | Herndon, VA, United States |  | 2026-11-20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99827) |
-| Mechanical Engineering Intern - Summer 2027 | WSP | Greenville, SC, United States |  | 2026-11-20 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351) |
 | Power Strategy Intern (MBA) (Summer 2027) | Vertiv | Delaware, OH, United States |  | 2026-11-20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20285727) |
 | Manufacturing Engineering Intern (Summer 2027) | Vertiv | Pelzer, SC, United States |  | 2026-11-20 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279361) |
 | Marketing & Communications Intern (2027 Internship Program) | DTCC | Jersey City, NJ, United States |  | 2026-11-20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) |
 | Chief Client Office Intern (2027 Internship Program) | DTCC | Jersey City, NJ, United States |  | 2026-11-20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215289) |
+| Intern, Thematic Equities Research (Summer of 2027) | Bfsaul | Bethesda, Maryland |  | 2026-11-20 | [Apply](https://jobs.lever.co/bfsaul/ba71b8a2-95de-4176-b3d7-a9b9d72db230) |
 | Intern, Exterior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-20 | [Apply](https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Columbus, OH |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/9da235e9-577b-4695-84bb-90d66b4d01c7) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | Phoenix, AZ |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/93352800-5bd9-41a6-a838-b41c3eaca0c6) |
-| Logistics Internship (Summer 2027) | Arrivelogistics | St. Paul, MN |  | 2026-11-20 | [Apply](https://jobs.lever.co/arrivelogistics/690c1f36-2f08-435c-a636-e9ec8f87ef8b) |
+| Intern - Molten Salt Blanket Engineer - Summer 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/83ca56d7-f142-4ecc-af72-5484519eaf08) |
+| Intern - Electrical Engineer, RF Heating Systems - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0) |
+| Intern - Electrical Engineer - Spring 2027 | Commonwealth Fusion Systems | Devens, MA |  | 2026-11-20 | [Apply](https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747) |
+| Summer 2027 - Mechanical Engineering Internship | CesiumAstro | El Segundo, CA |  | 2026-11-20 | [Apply](https://jobs.lever.co/CesiumAstro/6bbaaee4-2d16-4fcf-89ba-f6791960a099) |
 | Research Analyst Intern (Economics & Finance) - Summer 2027 | thebrattlegroup | Chicago, Illinois, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4757511005) |
 | Cinematic Presentation Design Intern (Spring 2027) | crystaldynamics | Remote/Flexible - United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/crystaldynamics/jobs/4757465005) |
-| 2027 Internship Marketing Intern | bedrock-robotics | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/4a2a5456-92c4-4d25-bdff-662ff27da790) |
-| Credit Analyst Internship - Chicago, IL (Summer 2027) | bmo | Chicago, IL, USA |  | 2026-11-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/Chicago-IL-USA/Credit-Analyst-Internship---Chicago--IL--Summer-2027-_R260030161) |
-| Summer 2027 Supply Chain Buyer Intern- Bachelor's (Santa Clara, CA) | amat | Santa Clara,CA |  | 2026-11-20 | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Buyer-Intern--Bachelor-s--Santa-Clara--CA-_R2627066) |
-| Summer 2027 Intern - Field Marketing, Missionforce | Salesforce | Virginia - Mclean |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1) |
-| Summer 2027 Intern - Product Marketing, Missionforce | Salesforce | California - San Francisco |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1) |
-| Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center -... | Target | 2700 Winter St NE, Minneapolis,MN 55413-2945 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2700-Winter-St-NE-MinneapolisMN-55413-2945/Operation-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center---Minneapolis--MN_R0000450437) |
-| Operation Manager Intern (Starting Summer 2027) Regional Distribution Center -... | Target | 25 N 75th Ave, Phoenix,AZ 85043-2109 |  | 2026-11-20 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/25-N-75th-Ave-PhoenixAZ-85043-2109/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Phoenix--AZ_R0000450404) |
-| Survey Internship (Summer 2027) | woolpert | Virginia Beach, VA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/woolpert/jobs/4426156009) |
-| Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis) | Resultant | Indianapolis, IN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
-| Government Funded Student Intern (WDTS) - Spring 2027 | LLNL | Livermore, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990017013616) |
 <!-- JOBS_TABLE_END -->
 
 <details>
