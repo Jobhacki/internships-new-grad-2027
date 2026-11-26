@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>17,086</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>17,180</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 00:19 UTC</sub>
+<sub>Snapshot 2026-11-26 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,14 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**17,086 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 00:19 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**17,180 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
+| Software Engineer, Core Systems (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
+| AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | Scout AI | Sunnyvale, CA | $135k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed) |
 | Summer 2027 Positioning Systems Internship | pacificfusion | San Leandro, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 | Software Engineering Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
 | Security and Compliance Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229) |
@@ -80,6 +83,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Flight Software Engineering Internship (Summer 2027) | apex-technology-inc | Los Angeles | $45/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3) |
 | Safety Internship Program - North Carolina & Virginia Region 2026 – 2027 | walshgroup | 2 Locations |  | 2026-11-25 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/NC_Asheville_219151/Safety-Internship-Program---North-Carolina---Virginia-Region-2026---2027_JR17220) |
 | Safety Internship Program - New Jersey Region 2026 – 2027 | walshgroup | NJ\_Little Falls\_825079 |  | 2026-11-25 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/NJ_Little-Falls_825079/Safety-Internship-Program---New-Jersey-Region-2026---2027_JR17222) |
+| Undergrad Intern – R&D Local Safety Officer (Summer 2027) | amgen | United States - Remote |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---R-D-Local-Safety-Officer--Summer-2027-_R-261779) |
 | Medicaid Strategy & Operations Corporate Internship – Summer 2027 (Undergraduat... | CVS Health | CT - Hartford |  | 2026-11-25 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Medicaid-Strategy---Operations-Corporate-Internship---Summer-2027--Undergraduate-_R1052344) |
 | Internship - Summer 2027 | TimmonsGroup1 | Richmond, VA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/TimmonsGroup1/744000163687689) |
 | 2027 Mechanical Systems Graduate Intern | aero | El Segundo, CA |  | 2026-11-25 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Mechanical-Systems-Graduate-Intern_R017301) |
@@ -121,6 +125,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Sports Performance Intern - Spring 2027 | exos | Phoenix, AZ |  | 2026-11-24 | [Apply](https://exos.wd501.myworkdayjobs.com/en-US/exoscareers/job/Phoenix-AZ/Sports-Performance-Intern---Spring-2027_26-2178) |
 | Safety Internship Program - Bay Area, CA - 2026 - 2027 | walshgroup | 2 Locations |  | 2026-11-24 | [Apply](https://walshgroup.wd12.myworkdayjobs.com/en-US/walshgroup/job/CA_San-Francisco_223175/Safety-Internship-Program---Bay-Area--CA---2026---2027_JR17229-1) |
 | Alcon Summer 2027 Intern - Human Factors & User Experience | alcon | Lake Forest, California |  | 2026-11-24 | [Apply](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Lake-Forest-California/Alcon-Summer-2027-Intern---Human-Factors---User-Experience_R-2026-51135) |
+| Grad Intern – DPS Cell-Free Expression (Summer 2027) | amgen | US - California - South San Francisco |  | 2026-11-24 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Grad-Intern---DPS-Cell-Free-Expression--Summer-2027-_R-262561) |
 | Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) CO GRAND JUNCTION 05099 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-CO-GRAND-JUNCTION-05099-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-----50-000-Sign-On-Bonus--2027-Grad-Sign-On-Program-_R-2717380) |
 | Emerging Talent - Industrial Engineering Intern Summer 2027 | senrasystems | Cypress, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/senrasystems/jobs/5492275008) |
 | Product Management Intern (MSP), Winter 2027 | rubrik | Palo Alto, CA |  | 2026-11-24 | [Apply](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) |
@@ -176,7 +181,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Sustainability and Business Analytics Intern- Heavy Civil Infrastructure Summer... | sbusa | Pittsburgh, PA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sbusa/jobs/5492846008) |
 | 2027 Internship, Spring - Graphic Design | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163296309) |
 | 2027 LLR Diversity Collaborate - Summer 2028 Investment Team Internship | llrpartnersjobs | Philadelphia |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4479187009) |
-| Summer 2027 Accounting Intern | harrisonst | Chicago, IL | $1,000/wk | 2026-11-23 | [Apply](https://jobs.lever.co/harrisonst/270f8c23-2116-4be7-87d2-1c5d16be42e7) |
 | Retirement Intern - Summer 2027 | imafinancialgroup | Atlanta, GA |  | 2026-11-23 | [Apply](https://imacorp.com/careers/openings/5275186007?gh_jid=5275186007) |
 | 2027 Summer Intern - Software Engineering - 5815 | Shield AI | Dallas, TX, US | $35-75/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
 | Software Engineer, Winter 2027 (Co-op/Internship) -4 months | bmo | San Ramon, CA, USA |  | 2026-11-23 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974) |
@@ -201,10 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Mechanical Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) |
 | Electrical Engineering Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) |
 | Supply Chain Process Intern (Summer 2027) | acehardware | CA - Visalia |  | 2026-11-21 | [Apply](https://acehardware.wd1.myworkdayjobs.com/en-US/external/job/CA---Visalia/Supply-Chain-Process-Intern--Summer-2027-_REQ-35205) |
-| 2027 Summer Rotational Internship Program | Sanctuary Wealth | Indianapolis, IN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684132) |
-| Electrical Engineering Co-Op (May-December 2027) | McClure Engineering | MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682910) |
-| Mechanical Engineering Co-Op (May- December 2027) | McClure Engineering | St. Louis |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682925) |
-| Tax Season Intern (2027) | PORTE BROWN LLC | Elk Grove Village, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3575496) |
 <!-- JOBS_TABLE_END -->
 
 <details>
