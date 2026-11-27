@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>17,022</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>17,088</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 00:18 UTC</sub>
+<sub>Snapshot 2026-11-27 04:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**17,022 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**17,088 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -68,6 +68,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Structural Engineering Co-op - Spring 2027 | WSP | Boston, MA, United States |  | 2026-11-25 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97957) |
 | News Intern (Spring 2027) | Sinclair | South Bend, IN, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17696) |
 | News Intern - Spring 2027 | Sinclair | Johnstown, PA, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17686) |
+| 2027 Summer Internship - Frontline Marketing Intern | duetti | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8) |
 | Summer 2027 Positioning Systems Internship | pacificfusion | San Leandro, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 | Software Engineering Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
 | Security and Compliance Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229) |
@@ -165,11 +166,15 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Summer Internship (Event Operations - WCF Events) | Windy City Fieldhouse | Chicago, IL |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685527) |
 | Sensor Hardware Test and Validation Co-op (Spring 2027) | LineVision, Inc. | Boston, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686427) |
 | Grid Data Operations Analyst Co-op (Spring 2027) | LineVision, Inc. | Boston, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686445) |
+| Summer 2027 Marketing Intern | ADP employer 38874c24 | Raleigh, Raleigh, NC, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=38874c24-8135-4e39-8ee5-283322cb54a0&ccId=19000101_000001&jobId=567184&lang=en_US&source=CC2) |
 | Spring 2027 Human Resources Intern | onsemi | Scottsdale, AZ, United States |  | 2026-11-23 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507300) |
 | Summer 2027 Intern-Provider Experience | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-23 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15150) |
 | 2027 Quality Intern - Wheeling, IL | Sherwin-Williams | Wheeling, IL, United States |  | 2026-11-23 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625418) |
 | Engineering Intern - DC Power Systems (Summer 2027) | Vertiv | Lorain, OH, United States |  | 2026-11-23 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643) |
 | Maritime Summer 2027 Intern | DNV | Houston, TX, United States |  | 2026-11-23 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8094) |
+| 2027 Agronomy Internship at The Lido | dreamgolf | Nekoosa, WI |  | 2026-11-23 | [Apply](https://jobs.lever.co/dreamgolf/36e221a6-e1e4-4126-97c4-f3162893ae80) |
+| Intern, IT Help Desk Level 3, Summer 2027 | lucidmotors | Casa Grande, AZ |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) |
+| Intern, Automotive Interior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | Campus Recruiting Intern (Winter/Spring 2027) | formlabs | Somerville, MA |  | 2026-11-23 | [Apply](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) |
 | Summer 2027: Software Development Test Engineering Co-op(May to August) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4725867006) |
 | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | sharkninjaoperatingllc | Needham, MA, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
@@ -200,11 +205,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Forward Deployed Engineering Intern (Summer 2027) | first-resonance | Los Angeles |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/first-resonance/465193ff-26d7-41d1-8202-2b4ecb22ad0a) |
 | Software Engineering Intern, Platform (Summer 2027) | first-resonance | Los Angeles | $30-35/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7) |
 | 2027 R&D Summer Internship- Pittsburgh | Sherwin-Williams | Pittsburgh, PA, United States |  | 2026-11-22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629849) |
-| Summer Intern 2027 / Propulsion Design Engineer | Agile Space Industries | Durango, CO |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682441) |
-| Summer Intern 2027 / DACS Engineer | Agile Space Industries | Durango, CO |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682348) |
-| Summer Intern 2027 / Analysis Engineer | Agile Space Industries | Durango, CO |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683085) |
-| Firmware/Embedded Software Engineer Intern - Summer 2027 | nerostechnologies | Torrance, California, United States |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
-| 2027 Ogilvy Creative Summer Internship | ogilvy | Chicago, United States |  | 2026-11-21 | [Apply](https://www.ogilvy.com/careers/4757364005?gh_jid=4757364005) |
 <!-- JOBS_TABLE_END -->
 
 <details>
