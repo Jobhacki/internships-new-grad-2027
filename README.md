@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,900</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,929</h3><sub>open internships and new-grad jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 16:17 UTC</sub>
+<sub>Snapshot 2026-11-27 20:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Looking for internships or new grad roles while studying or after graduation? Th
 
 ## Open jobs
 
-**16,900 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 16:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
+**16,929 open internships and new-grad jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 20:17 UTC.** Apply links go to the employer's career page or hiring system. Titles that mention 2027 are listed first.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| (USA) Pharmacy Pre-Grad Intern - WM - $25,000 Sign On Bonus (2027 Grad Sign On... | Walmart | (USA) OH ATHENS 03486 WM SUPERCENTER |  | 2026-11-27 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-OH-ATHENS-03486-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Pre-Grad-Intern---WM_R-2721922-1) |
 | Supply Chain Engineer Internship - Summer 2027 | vital-lyfe | Los Angeles - Greater Area | $28-30/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/0a604bb1-8230-45fa-8f65-5101e5774a8c) |
 | Marketing Intern - Summer 2027 | vital-lyfe | Los Angeles - Greater Area | $26-30/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/a3cb1fe6-d67b-4742-a7c1-a416eb021003) |
 | Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
@@ -68,6 +69,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Structural Engineering Co-op - Spring 2027 | WSP | Boston, MA, United States |  | 2026-11-25 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97957) |
 | News Intern (Spring 2027) | Sinclair | South Bend, IN, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17696) |
 | News Intern - Spring 2027 | Sinclair | Johnstown, PA, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17686) |
+| 2027 Summer Internship - Frontline Marketing Intern | duetti | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8) |
 | Summer 2027 Positioning Systems Internship | pacificfusion | San Leandro, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009) |
 | Software Engineering Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418272?gh_jid=8418272) |
 | Security and Compliance Internship - Summer 2027 | opensesame | Remote |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8418229?gh_jid=8418229) |
@@ -142,7 +144,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Summer 2027 Inventory, Facility, and Logistics Internship | pacificfusion | Los Lunas, NM |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4517332009) |
 | 2027 Internship, Spring - Academy Strength & Conditioning | RedBull | Morristown, NJ, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163504069) |
 | Forensic Accounting Internship - Summer 2027 | J.S. Held | New York, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/JSHeldLLC/744000163529799) |
-| eCommerce Amazon Intern - Spring 2027 | goldenhippo | Remote |  | 2026-11-24 | [Apply](https://www.golden-careers.com/jobs/4757504005?gh_jid=4757504005) |
 | Social & Community Intern, Summer 2027 | gofundme | San Francisco, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8380150) |
 | College Athlete Engagement Intern, Summer 2027 | gofundme | San Diego, CA; San Francisco, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8380054) |
 | Summer 2027 Legal Intern | divergent | Torrance, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/divergent/jobs/5376576008) |
@@ -160,7 +161,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Mechanical Engineer Co-op (Summer 2027) | marmon | Mt. Juliet, TN |  | 2026-11-24 | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/marmon_careers/job/Mt-Juliet-TN/Mechanical-Engineer-Co-op--Summer-2027-_JR0000047210-1) |
 | 2027 Summer Internship - Industrial Engineering - PPE/IE | ag | Mobile Area, AL |  | 2026-11-24 | [Apply](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140) |
 | Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | Mexia, TX |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Mexia-TX/Pharmacy-Grad-Intern--Hrly-_R-2711678-1) |
-| Pharmacy Grad Intern (Hrly) - $50,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) TX WACO 05389 WM SUPERCENTER |  | 2026-11-24 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-WACO-05389-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2711631-1) |
 | Financial Analyst Intern - Minneapolis, MN (Starting Summer, 2027) | Target | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |  | 2026-11-24 | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574) |
 | On Site Spring 2027 Intern: R&D | Ferno Washington Inc | Wilmington, OH |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2115044) |
 | 2027 Summer Internship (Event Operations - WCF Events) | Windy City Fieldhouse | Chicago, IL |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685527) |
@@ -171,6 +171,7 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | 2027 Quality Intern - Wheeling, IL | Sherwin-Williams | Wheeling, IL, United States |  | 2026-11-23 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625418) |
 | Engineering Intern - DC Power Systems (Summer 2027) | Vertiv | Lorain, OH, United States |  | 2026-11-23 | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643) |
 | Maritime Summer 2027 Intern | DNV | Houston, TX, United States |  | 2026-11-23 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8094) |
+| 2027 Agronomy Internship at The Lido | dreamgolf | Nekoosa, WI |  | 2026-11-23 | [Apply](https://jobs.lever.co/dreamgolf/36e221a6-e1e4-4126-97c4-f3162893ae80) |
 | Intern, IT Help Desk Level 3, Summer 2027 | lucidmotors | Casa Grande, AZ |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007) |
 | Intern, Automotive Interior Design, Summer 2027 | lucidmotors | Newark, CA |  | 2026-11-23 | [Apply](https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007) |
 | Campus Recruiting Intern (Winter/Spring 2027) | formlabs | Somerville, MA |  | 2026-11-23 | [Apply](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) |
@@ -189,7 +190,6 @@ Looking for internships or new grad roles while studying or after graduation? Th
 | Sustainability and Business Analytics Intern- Heavy Civil Infrastructure Summer... | sbusa | Pittsburgh, PA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sbusa/jobs/5492846008) |
 | 2027 Internship, Spring - Graphic Design | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163296309) |
 | 2027 LLR Diversity Collaborate - Summer 2028 Investment Team Internship | llrpartnersjobs | Philadelphia |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4479187009) |
-| Summer 2027 Accounting Intern | harrisonst | Chicago, IL | $1,000/wk | 2026-11-23 | [Apply](https://jobs.lever.co/harrisonst/270f8c23-2116-4be7-87d2-1c5d16be42e7) |
 | Retirement Intern - Summer 2027 | imafinancialgroup | Atlanta, GA |  | 2026-11-23 | [Apply](https://imacorp.com/careers/openings/5275186007?gh_jid=5275186007) |
 | 2027 Summer Intern - Software Engineering - 5815 | Shield AI | Dallas, TX, US | $35-75/hr | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
 | Software Engineer, Winter 2027 (Co-op/Internship) -4 months | bmo | San Ramon, CA, USA |  | 2026-11-23 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974) |
